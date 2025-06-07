@@ -1,3 +1,4 @@
+                    Brief Introduction About Myself 
 I am Terrence Owiti, a passionate and dedicated software developer with a strong foundation in Python.
 I am proficient in multiple programming languages, including C, TypeScript, and JavaScript.
 My expertise in Python has allowed me to work on and complete various software projects that demonstrate my problem-solving skills and creativity.
