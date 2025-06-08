@@ -1,1 +1,6 @@
-What i have learned from this course is about intro to git and github
+What I have learned from this course is an introduction to Git and GitHub, which has helped me understand
+how to manage and collaborate on code more effectively. I’ve learned how to create pull requests, make
+commits to GitHub, and fork repositories to work on projects independently. The course also introduced
+me to the foundations of Linux, which has improved my confidence in using the command line. Overall,
+gaining these version control skills has made me feel more prepared to contribute to real-world software
+projects and collaborate with others in a professional workflow.
